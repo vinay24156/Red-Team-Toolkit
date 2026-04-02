@@ -1,1 +1,5 @@
-
+admin:admin
+admin:admin123
+root:toor
+user:password
+test:test123
